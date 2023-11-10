@@ -1,22 +1,37 @@
 <html>
-  <head>
-    <title>primeiro site do 1c</title>
-  </head>
-  <style>
-    body{
-      background-color:#000000;
-    }
-  </style>
-  <body>
-    <fieldset>
-      <legend>CADASTRAR</legend>
-      <p>USUARIO:</p><input type="text" placeholder="usuario"><br><br>
-      <p>SENHA:</p><input type="password" placeholder="senha"><br><br>
-      <select>
-        <option>VOLEI</option>
-        <option>FUTEBOL</option>
-        <option>BASQUETE</option>
-      </select>
-    </fieldset>
-  </body>
+<head>
+<title>motors</title>
+</head>
+<style>
+body{
+background-color:purple;
+}
+</style>
+<body>
+<fieldset>
+<legend>JOGOS LEGAIS</legend>
+<p>USUARIO:</p><input type="text" placeholder="usuario"><br><br>
+<p>SENHA:</p><input type="password" placeholder="senha"><br><br>
+<p>carros</p>
+<p>free fire</p>
+<p>mainicraft</p>
+<p>roblox</p>
+<select>
+<option>MEGA JOGOS</option>
+<option>CARROS</option>
+<option>JOGOS</option>
+</select>
+</fieldset>
+<fieldset>
+<legend>ROBLOX LAND</legend>
+</fieldset>
+<fieldset>
+<legend>FREE FIRELAND</legend>
+</fieldset>
+<fieldset>
+<legend>MAINICRAFITI</legend>
+</fieldset>
+</fieldset>
+<legend>CARROS</legend>
+</body>
 </html>
