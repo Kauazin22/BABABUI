@@ -1,37 +1,53 @@
-<html>
-<head>
-<title>motors</title>
-</head>
-<style>
-body{
-background-color:purple;
-}
-</style>
-<body>
-<fieldset>
-<legend>JOGOS LEGAIS</legend>
-<p>USUARIO:</p><input type="text" placeholder="usuario"><br><br>
-<p>SENHA:</p><input type="password" placeholder="senha"><br><br>
-<p>carros</p>
-<p>free fire</p>
-<p>mainicraft</p>
-<p>roblox</p>
-<select>
-<option>MEGA JOGOS</option>
-<option>CARROS</option>
-<option>JOGOS</option>
-</select>
-</fieldset>
-<fieldset>
-<legend>ROBLOX LAND</legend>
-</fieldset>
-<fieldset>
-<legend>FREE FIRELAND</legend>
-</fieldset>
-<fieldset>
-<legend>MAINICRAFITI</legend>
-</fieldset>
-</fieldset>
-<legend>CARROS</legend>
-</body>
+
+  </fieldset>
+    <legend></legend>
+
+  </fieldset>
+    </fieldset>
+    <legend></legend><html>
+  <head>
+    <title>Galo</title>
+  </head>
+  <style>
+    body{
+      background-color:Black;
+    }
+  </style>
+  <body>
+    <fieldset>
+      <legend>CADASTRAR</legend>
+      <p>USUARIO:</p><input type="text" placeholder="usuario"><br><br>
+      <input type="text" placeholder="usuario"
+      <input type="text" placeholder="usuario"
+      <input type="text" placeholder="usuario"
+      <input type="text" placeholder="usuario"
+      <p>SENHA:</p><input type="password" placeholder="senha"><br><br>
+       <p>SENHA:</p><input type="password" placeholder="senha"><br><br>
+       <p>SENHA:</p><input type="password" placeholder="senha"><br><br>
+       <p>SENHA:</p><input type="password" placeholder="senha"><br><br>
+       <p>SENHA:</p><input type="password" placeholder="senha"><br><br>
+     
+     
+      <p>free fire 2019 era bom</p>
+      <p>71</p>
+            <p>21</p>
+      <p>A Alemanaha perdeu as duas grandes guerras </p>
+      <p>roblox é paia</p>
+      <select>
+        <option>minicraft</option>
+        <option>roblox</option>
+        <option>free fire</option>
+        <option>esporte</option>
+        <option>jogos</option>
+      </select>
+    </fieldset>
+    <legend></legend>
+
+  </fieldset>
+
+  </fieldset>
+  </fieldset>
+     <legend></legend>
+  </fieldset>
+  </body>
 </html>
