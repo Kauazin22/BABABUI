@@ -1,0 +1,19 @@
+<html>
+    <head>
+
+    </head>
+    <style>
+          .cuo {
+        width:70px;
+        height:140px;
+        border:1px solid black;
+        border-radius:6%;
+
+    }
+    </style>
+    <body>
+       <div class="cuo">
+
+    </div>
+    </body>
+</html>
